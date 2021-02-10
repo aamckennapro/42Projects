@@ -8,47 +8,47 @@ I don't expect to finish these in a year, albeit two years. I want to finish the
 # Project Completion Status
 
 - [x] Start Project 01. Web Server
-- [] Start Project 02.
-- [] Start Project 03.
-- [] Start Project 04.
-- [] Start Project 05.
-- [] Start Project 06.
-- [] Start Project 07.
-- [] Start Project 08.
-- [] Start Project 09.
-- [] Start Project 10.
-- [] Start Project 11.
-- [] Start Project 12.
-- [] Start Project 13.
-- [] Start Project 14.
-- [] Start Project 15.
-- [] Start Project 16.
-- [] Start Project 17.
-- [] Start Project 18.
-- [] Start Project 19.
-- [] Start Project 20.
-- [] Start Project 21.
-- [] Start Project 22.
-- [] Start Project 23.
-- [] Start Project 24.
-- [] Start Project 25.
-- [] Start Project 26.
-- [] Start Project 27.
-- [] Start Project 28.
-- [] Start Project 29.
-- [] Start Project 30.
-- [] Start Project 31.
-- [] Start Project 32.
-- [] Start Project 33.
-- [] Start Project 34.
-- [] Start Project 35.
-- [] Start Project 36.
-- [] Start Project 37.
-- [] Start Project 38.
-- [] Start Project 39.
-- [] Start Project 40.
-- [] Start Project 41.
-- [] Start Project 42.
+- [ ] Start Project 02.
+- [ ] Start Project 03.
+- [ ] Start Project 04.
+- [ ] Start Project 05.
+- [ ] Start Project 06.
+- [ ] Start Project 07.
+- [ ] Start Project 08.
+- [ ] Start Project 09.
+- [ ] Start Project 10.
+- [ ] Start Project 11.
+- [ ] Start Project 12.
+- [ ] Start Project 13.
+- [ ] Start Project 14.
+- [ ] Start Project 15.
+- [ ] Start Project 16.
+- [ ] Start Project 17.
+- [ ] Start Project 18.
+- [ ] Start Project 19.
+- [ ] Start Project 20.
+- [ ] Start Project 21.
+- [ ] Start Project 22.
+- [ ] Start Project 23.
+- [ ] Start Project 24.
+- [ ] Start Project 25.
+- [ ] Start Project 26.
+- [ ] Start Project 27.
+- [ ] Start Project 28.
+- [ ] Start Project 29.
+- [ ] Start Project 30.
+- [ ] Start Project 31.
+- [ ] Start Project 32.
+- [ ] Start Project 33.
+- [ ] Start Project 34.
+- [ ] Start Project 35.
+- [ ] Start Project 36.
+- [ ] Start Project 37.
+- [ ] Start Project 38.
+- [ ] Start Project 39.
+- [ ] Start Project 40.
+- [ ] Start Project 41.
+- [ ] Start Project 42.
 
 
 - [] Finish Project 01. Web Server
