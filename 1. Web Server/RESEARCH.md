@@ -14,4 +14,10 @@ NGINX was recommended for inspiration, which is written in C, and here's that [s
 
 [An example repo of a Multi-Threaded Server in C](https://github.com/ozgurhepsag/Multi-threaded-HTTP-Server)
 
+[RFC 2616 - An in-depth overview of HTTP 1.1](https://tools.ietf.org/html/rfc2616)
+
+[RFC 7540 - An in-depth overview of HTTP 2.0](https://tools.ietf.org/html/rfc7540)
+
+[Simple HTTP server sample](http://www.jbox.dk/sanos/webserver.htm)
+
 This is all that I've found so far, and it seems that I need to go the route of a multi-threaded web server. 
