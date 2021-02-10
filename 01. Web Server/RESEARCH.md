@@ -2,7 +2,7 @@
 
 Boy howdy this is my research document for Project 1, the Web Server. I've never built a web server, but I sure have been interested in them.
 
-NGINX was recommended for inspiration, which is written in C, and here's that [source code](https://github.com/nginx/nginx).
+NGINX was recommended for inspiration, which is written in C, and here's that [source code](https://github.com/nginx/nginx). nginx is written in a way such that it works through the command prompt, or terminal. This is incredibly helpful as I have no need to create a GUI.
 
 [What is HTTP/2?](https://kinsta.com/learn/what-is-http2/)
 
