@@ -51,45 +51,45 @@ I don't expect to finish these in a year, albeit two years. I want to finish the
 - [ ] Start Project 42.
 
 
-- [] Finish Project 01. Web Server
-- [] Finish Project 02.
-- [] Finish Project 03.
-- [] Finish Project 04.
-- [] Finish Project 05.
-- [] Finish Project 06.
-- [] Finish Project 07.
-- [] Finish Project 08.
-- [] Finish Project 09.
-- [] Finish Project 10.
-- [] Finish Project 11.
-- [] Finish Project 12.
-- [] Finish Project 13.
-- [] Finish Project 14.
-- [] Finish Project 15.
-- [] Finish Project 16.
-- [] Finish Project 17.
-- [] Finish Project 18.
-- [] Finish Project 19.
-- [] Finish Project 20.
-- [] Finish Project 21.
-- [] Finish Project 22.
-- [] Finish Project 23.
-- [] Finish Project 24.
-- [] Finish Project 25.
-- [] Finish Project 26.
-- [] Finish Project 27.
-- [] Finish Project 28.
-- [] Finish Project 29.
-- [] Finish Project 30.
-- [] Finish Project 31.
-- [] Finish Project 32.
-- [] Finish Project 33.
-- [] Finish Project 34.
-- [] Finish Project 35.
-- [] Finish Project 36.
-- [] Finish Project 37.
-- [] Finish Project 38.
-- [] Finish Project 39.
-- [] Finish Project 40.
-- [] Finish Project 41.
-- [] Finish Project 42.
+- [ ] Finish Project 01. Web Server
+- [ ] Finish Project 02.
+- [ ] Finish Project 03.
+- [ ] Finish Project 04.
+- [ ] Finish Project 05.
+- [ ] Finish Project 06.
+- [ ] Finish Project 07.
+- [ ] Finish Project 08.
+- [ ] Finish Project 09.
+- [ ] Finish Project 10.
+- [ ] Finish Project 11.
+- [ ] Finish Project 12.
+- [ ] Finish Project 13.
+- [ ] Finish Project 14.
+- [ ] Finish Project 15.
+- [ ] Finish Project 16.
+- [ ] Finish Project 17.
+- [ ] Finish Project 18.
+- [ ] Finish Project 19.
+- [ ] Finish Project 20.
+- [ ] Finish Project 21.
+- [ ] Finish Project 22.
+- [ ] Finish Project 23.
+- [ ] Finish Project 24.
+- [ ] Finish Project 25.
+- [ ] Finish Project 26.
+- [ ] Finish Project 27.
+- [ ] Finish Project 28.
+- [ ] Finish Project 29.
+- [ ] Finish Project 30.
+- [ ] Finish Project 31.
+- [ ] Finish Project 32.
+- [ ] Finish Project 33.
+- [ ] Finish Project 34.
+- [ ] Finish Project 35.
+- [ ] Finish Project 36.
+- [ ] Finish Project 37.
+- [ ] Finish Project 38.
+- [ ] Finish Project 39.
+- [ ] Finish Project 40.
+- [ ] Finish Project 41.
+- [ ] Finish Project 42.
