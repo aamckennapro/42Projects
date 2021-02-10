@@ -4,9 +4,12 @@ Updated 2/9/2021
 The projects come from a website, by [Vardan Grigoryan](https://itnext.io/42-projects-to-practice-programming-skills-6f5acc10fec0). I will go in any order I please,
 and attempt to only take a week on these (we'll see how that goes). Also using any language I so wish, as long as it can fit the bill of the project. 
 
+Each project will have a README, RESEARCH, and ARCHITECTURE (if applicable) file in its folder. Each folder may link to another repository entirely in the future if the
+project needs a repository.
+
 I don't expect to finish these in a year, albeit two years. I want to finish them all, in the order that Vardan presented (for the most part).
 
-# Project Completion Status
+# Project Status
 
 - [x] Start Project 01. Web Server
 - [ ] Start Project 02.
