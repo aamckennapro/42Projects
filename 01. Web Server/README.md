@@ -9,3 +9,15 @@ Ideas: Build server with Golang as it is quite good for servers from my research
 Basically, here's what needs to happen.
 
 Gain some HTTP knowledge, figure out what language you want to write the server in (likely Go), implement a VERY simple version (serves just an index.html, 404, and 501 errors), implement tests, run tests until it works, then add features slowly but surely, testing along the way. The whole time I want to do this is by using TDD (test dependent development).
+
+## Features (In Development)
+
+- [ ] Serves static HTML files
+- [ ] Has error 404 and 501 support
+- [ ] URL Rewriting
+- [ ] FTP Connections
+- [ ] HTTP/1.1 support
+- [ ] HTTP/2 support
+- [ ] Auto-indexing
+- [ ] Bandwidth Throttling
+- [ ] IPv6 Support
