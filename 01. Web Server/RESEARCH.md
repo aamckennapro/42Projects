@@ -22,6 +22,8 @@ NGINX was recommended for inspiration, which is written in C, and here's that [s
 
 [Mozilla Client-Server Overview](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
 
-This is all that I've found so far, and it seems that I need to go the route of a multi-threaded web server. 
+[On Concurrency in go HTTP Servers](https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers)
+
+This is all that I've found so far, and it seems that I need to go the route of a multi-threaded web server.
 
 Likely situation: single file or just two files, one that deals with requests and one that deals with everything else. Multi-threaded server that works through the command prompt. Can host HTML files at the very least. Lightweight and efficient. Can accept up to an undisclosed amount of requests, but I will likely have a cap on it.
